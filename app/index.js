@@ -127,15 +127,15 @@ export default function Homepage() {
         colorchange = "#FF4C4C"
         quotes = "Keep Going 😊"
     }
-    else if (percentage <= 50) {
+    else if (percentage <= 75) {
         colorchange = "#FFA500"
         quotes = "Stay Strong 🔥"
     }
-    else if (percentage <= 75) {
+    else if (percentage < 100) {
         colorchange = "#C3E000"
         quotes = "Almost There 👍"
     }
-    else if (percentage <= 100) {
+    else if (percentage == 100) {
         colorchange = "#4CAF50"
         quotes = "Congratulations 🎉"
     }
