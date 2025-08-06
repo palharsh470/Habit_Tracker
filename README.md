@@ -1,8 +1,42 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+# 📅 Habit Tracker App
+
+A mobile app developed with React Native, JavaScript, and Expo to assist users in creating and maintaining daily habits using a clean, responsive user interface.
+
+---
+
+## 🚀 Features
+
+- ➕ Add, update, delete, and toggle daily habits/tasks
+- 🔄 "Start New Day" feature to clear and track daily progress
+- 📊 Visualise habit progress using interactive graphs
+- 🧠 Dynamic sectioning of tasks for a clean and uncluttered experience
+- 📱 Smooth, responsive UI on Android and iOS
+- 🔁 Repeated habit tracking between user sessions
+
+---
+
+## 📸 Screenshots
+
+| Dashboard | Add Habit | Update Habit | Daily Tracker | Progress Graph |
+|------------|-------------|----------------|----------------|----------------|
+| ![Login](assets/images/home.jpg) | ![Home](assets/images/addtask.jpg) | ![Search](assets/images/update.jpg) | ![Details](assets/images/addedtasks.jpg) | ![Favorites](assets/images/graph.jpg) |
+
+
+
+---
+
+## 🎥 Demo Video
+
+<a href="https://www.instagram.com/reel/DNATkKaJ4yY/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==">
+  <img src="assets/images/videologo.jpg" alt="Watch Demo" width="200"/>
+</a>
+
+
+---
+
+## 🔧 Get started
 
 1. Install dependencies
 
